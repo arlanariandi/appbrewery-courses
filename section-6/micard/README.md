@@ -16,4 +16,4 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 # Screenshot Image
-<a href = "assets/ss.png" widhe="300">
+<a href = "assets/ss.png" width="300">
